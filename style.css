@@ -8,8 +8,7 @@ body {
 }
 
 .navbar {
-    background-attachment: fixed;
-    position: fixed;
+    position: sticky;
 }
 
 #navbar-bag a {
