@@ -8,6 +8,7 @@ body {
 }
 
 .navbar {
+    background-attachment: fixed;
     position: fixed;
 }
 
