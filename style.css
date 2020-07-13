@@ -7,6 +7,10 @@ body {
     background-color: #1d1d1d;
 }
 
+.navbar {
+    position: fixed;
+}
+
 #navbar-bag a {
     background-image: url(images/bag.png);
     width: 14.95px;
