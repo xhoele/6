@@ -1,0 +1,334 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
+#navbar-bag a {
+    background-image: url(images/bag.png);
+    width: 14.95px;
+    height: 8.97px;
+    position: absolute;
+    left: 13px;
+    top: 11px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-bag a:hover {
+    opacity: 100%;
+}
+
+#navbar-logo a {
+    background-image: url(images/logo.png);
+    width: 37.83px;
+    height: 14px;
+    position: absolute;
+    left: 189px;
+    top: 9px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-logo a:hover {
+    opacity: 100%;
+}
+
+#navbar-hamburger a {
+    background-image: url(images/hamburger.png);
+    width: 8.99px;
+    height: 2.97px;
+    position: absolute;
+    left: 389px;
+    top: 13px;
+    transition: 0.7s;
+    opacity: 80%;
+}
+
+#navbar-hambugrer a:hover {
+    opacity: 100%;
+}
+
+#blue-line-1 {
+    background-image: url(images/blue-line-1.png);
+    width: 414px;
+    height: 18px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+
+#blue-line-1-text {
+    color: #f4f4f4;
+    font-family: 'Montserrat SemiBold';
+    font-size: 7.5px;
+    position: absolute;
+    left: 97px;
+    top: 35px;
+}
+
+#wrapper-1 {
+    background-image: url(images/wrapper-1.png);
+    width: 414px;
+    height: 254px;
+    position: absolute;
+    left: 0px;
+    top: 48px;
+}
+
+#wrapper-1-text-iphone-11-pro {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    position: absolute;
+    left: 152px;
+    top: 65px;
+    font-size: 16px;
+}
+
+#wrapper-1-text-faster-than-ever {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 8px;
+    color: #1d1d1d;
+    position: absolute;
+    left: 172px;
+    top: 85px;
+}
+
+#buy-now-1 a {
+    background-image: url(images/buy-now.png);
+    width: 31.62px;
+    height: 6.82px;
+    position: absolute;
+    left: 168px;
+    top: 99px;
+}
+
+#learn-more-1 a {
+    background-image: url(images/buy-now.png);
+    width: 37.78px;
+    height: 6.82px;
+    position: absolute;
+    left: 210px;
+    top: 99px;
+}
+
+#wrapper-1-img a {
+    background-image: url(images/wrapper-1-img.png);
+    width: 198px;
+    height: 198px;
+    position: absolute;
+    left: 109px;
+    top: 104px;
+}
+
+#blue-line-2 {
+    background-image: url(images/blue-line-2.png);
+    width: 414px;
+    height: 12px;
+    position: absolute;
+    left: 0px;
+    top: 302px;
+}
+
+#wrapper-2 {
+    background-image: url(images/wrapper-2.png);
+    width: 414px;
+    height: 254px;
+    position: absolute;
+    left: 0px;
+    top: 314px;
+}
+
+#wrapper-2-text-iphone-11-pro {
+    font-family: 'Montserrat SemiBold';
+    font-size: 16px;
+    color: #f4f4f4;
+    position: absolute;
+    left: 152px;
+    top: 325px;
+}
+
+#wrapper-2-text-faster-than-ever {
+    font-family: 'Montserrat SemiBold';
+    font-size: 8px;
+    position: absolute;
+    left: 172px;
+    top: 345px;
+    color: #f4f4f4;
+}
+
+#buy-now-2 a {
+    background-image: url(images/buy-now.png);
+    width: 31.62px;
+    height: 6.82px;
+    position: absolute;
+    left: 168px;
+    top: 359px;
+}
+
+#learn-more-2 a {
+    background-image: url(images/learn-more.png);
+    width: 37.78px;
+    height: 6.82px;
+    position: absolute;
+    left: 210px;
+    top: 359px;
+}
+
+#wrapper-2-img a {
+    background-image: url(images/wrapper-2-img.png);
+    width: 198px;
+    height: 234.23px;
+    position: absolute;
+    left: 108px;
+    top: 325px;
+}
+
+#blue-line-3 {
+    background-image: url(images/blue-line-2.png);
+    width: 414px;
+    height: 12px;
+    position: absolute;
+    left: 0px;
+    top: 568px;
+}
+
+#wrapper-3 {
+    background-image: url(images/wrapper-3.png);
+    width: 414px;
+    height: 241px;
+    position: absolute;
+    left: 0px;
+    top: 580px;    
+}
+
+#content-wrapper-1 {
+    background-image: url(images/content-wrapper-1.png);
+    width: 204.5px;
+    height: 241px;
+    position: absolute;
+    left: 0px;
+    top: 580px;
+}
+
+#content-wrapper-1-text-mac-book-pro {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    position: absolute;
+    left: 53px;
+    top: 605px;
+    color: #1d1d1d;
+}
+
+#buy-now-3 a {
+    background-image: url(images/buy-now.png);
+    width: 31.62px;
+    height: 6.82px;
+    position: absolute;
+    left: 63px;
+    top: 626px;
+}
+
+#learn-more-3 a {
+    background-image: url(images/learn-more.png);
+    width: 37.78px;
+    height: 6.82px;
+    position: absolute;
+    left: 105px;
+    top: 626px;
+}
+
+#content-wrapper-1-img a {  
+    background-image: url(images/content-wrapper-1-img.png);
+    width: 173.07px;
+    height: 116.18px;
+    position: absolute;
+    left: 16px;
+    top: 666.82px;
+}
+
+#content-wrapper-1-text {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #1d1d1d;
+    font-size: 8px;
+    position: absolute;
+    left: 11px;
+    top: 785px;
+    width: 183px;
+    height: 20px;
+    text-align: center;
+}
+
+#content-wrapper-2 {
+    background-image: url(images/content-wrapper-2.png);
+    width: 204px;
+    height: 241px;
+    position: absolute;
+    left: 210px;
+    top: 580px;
+}
+
+#content-wrapper-2-text-air-pods {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 14px;
+    color: #1d1d1d;
+    position: absolute;
+    left: 282px;
+    top: 605px;
+}
+
+#buy-now-4 a {
+    background-image: url(images/buy-now.png);
+    width: 31.62px;
+    height: 6.82px;
+    position: absolute;
+    left: 273px;
+    top: 626px;
+}
+
+#learn-more-4 a {
+    background-image: url(images/buy-now.png);
+    width: 37.78px;
+    height: 6.82px;
+    position: absolute;
+    left: 315px;
+    top: 626px;
+}
+
+#content-wrapper-2-img a {
+    background-image: url(images/content-wrapper-2-img.png);
+    width: 88.78px;
+    height: 116.18px;
+    position: absolute;
+    left: 268px;
+    top: 649px;
+}
+
+#content-wrapper-2-subtitile-text {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 8px;
+    position: absolute;
+    left: 248.5px;
+    top: 785px;
+    color: #1d1d1d;
+    text-align: center;
+    width: 128px;
+    height: 20px;
+}
+
+#blue-line-4 {
+    background-image: url(images/blue-line-2.png);
+    width: 414px;
+    height: 12px;
+    position: absolute;
+    left: 0px;
+    top: 821px;
+}
+
