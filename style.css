@@ -185,7 +185,7 @@ body {
 
 #wrapper-2-img a {
     background-image: url(images/wrapper-2-img.png);
-    width: 198px;
+    width: 168px;
     height: 234.23px;
     position: absolute;
     left: 108px;
@@ -226,15 +226,9 @@ body {
     left: 53px;
     top: 605px;
     color: #1d1d1d;
-}
-
-#buy-now-3 a {
-    background-image: url(images/buy-now.png);
-    width: 31.62px;
-    height: 6.82px;
-    position: absolute;
-    left: 63px;
-    top: 626px;
+    text-align: center;
+    width: 570px;
+    height: 60px;
 }
 
 #learn-more-3 a {
@@ -270,7 +264,7 @@ body {
 
 #content-wrapper-2 {
     background-image: url(images/content-wrapper-2.png);
-    width: 204px;
+    width: 0px;
     height: 241px;
     position: absolute;
     left: 210px;
@@ -334,5 +328,380 @@ body {
     position: absolute;
     left: 0px;
     top: 821px;
+}
+
+#wrapper-3 {
+    background-image: url(images/wrapper-3.png);
+    width: 414px;
+    height: 241px;
+    position: absolute;
+    left: 0px;
+    top: 833px;
+}
+
+#content-wrapper-3rd-1 a {
+    background-image: url(images/content-wrapper-3rd-1.png);
+    width: 204.5px;
+    height: 117.5px;
+    position: absolute;
+    left: 0px;
+    top: 833px;
+}
+
+#content-wrapper-3rd-2 a {
+    background-image: url(images/content-wrapper-3rd-2.png);
+    width: 204.5px;
+    height: 117.5px;
+    position: absolute;
+    left: 210px;
+    top: 833px;
+}
+
+#content-wrapper-3rd-3 a {
+    background-image: url(images/content-wrapper-3rd-3.png);
+    width: 204.5px;
+    height: 117.5px;
+    position: absolute;
+    left: 0px;
+    top: 956.5px;
+}
+
+#content-wrapper-3rd-4 a {
+    background-image: url(images/content-wrapper-3rd-4.png);
+    width: 204.5px;
+    height: 117.5px;
+    position: absolute;
+    left: 209.5px;
+    top: 956.5px;
+}
+
+#blue-line-5 {
+    background-image: url(images/blue-line-2.png);
+    width: 414px;
+    height: 12px;
+    position: absolute;
+    left: 0px;
+    top: 1074px;
+}
+
+@media screen and (max-width: 1366px) {
+    #navbar-bag a {
+        background-image: url(images/bag-1347.png);
+        width: 53.33px;
+        height: 32px;
+        position: absolute;
+        left: 10px;
+        top: 18px;
+    }
+
+    #navbar-logo a {
+        background-image: url(images/logo-1347.png);
+        width: 89.68px;
+        height: 33.19px;
+        position: absolute;
+        left: 619.86px;
+        top: 18px;
+    }
+
+    #navbar-hamburger a {
+        background-image: url(images/hamburger-1347.png);
+        width: 29.64px;
+        height: 9.79px;
+        position: absolute;
+        left: 1301px;
+        top: 30px;
+    }
+
+    #blue-line-1 {
+        background-image: url(images/blue-line-1-1347.png);
+        width: 1349px;
+        height: 39.32px;
+        position: absolute;
+        left: 0px;
+        top: 69.21px;
+    }
+
+    #blue-line-1-text {
+        font-size: 20px;
+        position: absolute;
+        left: 376px;
+        top: 77px;
+    }
+
+    #wrapper-1 {
+        background-image: url(images/wrapper-1-1347.png);
+        width: 1349px;
+        height: 837.07px;
+        position: absolute;
+        left: 0px;
+        top: 107.93px;
+    }
+
+    #wrapper-1-text-iphone-11-pro {
+        font-size: 30px;
+        position: absolute;
+        left: 580.5px;
+        top: 180px;
+    }
+
+    #wrapper-1-text-faster-than-ever {
+        font-size: 20px;
+        position: absolute;
+        left: 594.5px;
+        top: 226px;
+    }
+
+    #buy-now-1 a {
+        background-image: url(images/buy-now-1347.png);
+        width: 104.2px;
+        height: 22.48px;
+        position: absolute;
+        left: 553.65px;
+        top: 267.6px;
+    }
+
+    #learn-more-1 a {
+        background-image: url(images/learn-more-1347.png);
+        width: 124.5px;
+        height: 22.48px;
+        position: absolute;
+        left: 692.06px;
+        top: 267.6px;
+    }
+
+
+    #wrapper-1-img a {
+        background-image: url(images/wrapper-1-img-1347.png);
+        width: 652.52px;
+        height: 652.52px;
+        position: absolute;
+        left: 359.21px;
+        top: 292.08px;
+    }
+
+    #blue-line-2 {
+        background-image: url(images/blue-line-2-1347.png);
+        width: 1349px;
+        height: 39.55px;
+        position: absolute;
+        left: 0px;
+        top: 944.59px;
+    }
+
+    #wrapper-2 {
+        background-image: url(images/wrapper-2-1347.png);
+        width: 1349px;
+        height: 837.07px;
+        position: absolute;
+        left: 0px;
+        top: 984.14px;
+    }
+
+    #wrapper-2-text-iphone-11-pro {
+        font-size: 30px;
+        position: absolute;
+        left: 582px;
+        top: 1020px;
+    }
+
+    #wrapper-2-text-faster-than-ever {
+        font-size: 20px;
+        position: absolute;
+        left: 596.5px;
+        top: 1066px;
+    }
+
+    #buy-now-2 a {
+        background-image: url(images/buy-now-1347.png);
+        width: 104.2px;
+        height: 22.48px;
+        position: absolute;
+        left: 553.65px;
+        top: 1102.44px;
+    }
+
+    #learn-more-2 a {
+        background-image: url(images/learn-more-1347.png);
+        width: 124.5px;
+        height: 22.48px;
+        position: absolute;
+        left: 692.06px;
+        top: 1102.44px;
+    }
+
+    #wrapper-2-img a {
+        background-image: url(images/wrapper-2-img-1347.png);
+        width: 652.52px;
+        height: 771.91px;
+        position: absolute;
+        left: 355.92px;
+        top: 1020.39px;
+    }
+
+    #blue-line-3 {
+        background-image: url(images/blue-line-2-1347.png);
+        width: 1349px;
+        height: 39.55px;
+        position: absolute;
+        left: 0px;
+        top: 1821.21px;
+    }
+
+    #content-wrapper-1-text-mac-book-pro {
+        font-size: 35px;
+        position: absolute;
+        left: 215px;
+        top: 1943px;
+    }
+
+    #learn-more-3 a {
+        background-image: url(images/learn-more-1347.png);
+        width: 124.5px;
+        height: 22.48px;
+        position: absolute;
+        left: 275px;
+        top: 2012.52px;
+    }
+
+    #wrapper-3 {
+        background-image: url(images/wrapper-3-1347.png);
+        width: 1349px;
+        height: 794.22px;
+        position: absolute;
+        left: 0px;
+        top: 2695px;
+    }
+
+    #content-wrapper-1 {
+        background-image: url(images/content-wrapper-1-1347.png);
+        width: 673.94px;
+        height: 794.22px;
+        position: absolute;
+        left: 0px;
+        top: 1860.75px;
+    }
+
+    #content-wrapper-1-img a {
+        background-image: url(images/content-wrapper-1-img-1347.png);
+        width: 570.35px;
+        height: 382.88px;
+        position: absolute;
+        left: 52.73px;
+        top: 2146.87px;
+    }
+
+    #content-wrapper-1-text {
+        font-size: 25px;
+        position: absolute;
+        left: 52.54px;
+        top: 2536px;
+    }
+
+    #content-wrapper-2 {
+        background-image: url(images/content-wrapper-2-1347.png);
+        width: 672.29px;
+        height: 794.22px;
+        position: absolute;
+        left: 692.06px;
+        top: 1860.75px;
+    }
+
+    #content-wrapper-2-text-air-pods {
+        font-size: 35px;
+        position: absolute;
+        left: 951px;
+        top: 1943px;
+    }
+
+    #buy-now-4 a {
+        background-image: url(images/buy-now-1347.png);
+        width: 104.2px;
+        height: 22.48px;
+        position: absolute;
+        left: 899.68px;
+        top: 2012.35px;
+    }
+
+    #learn-more-4 a {
+        background-image: url(images/learn-more-1347.png);
+        width: 124.5px;
+        height: 22.48px;
+        position: absolute;
+        left: 1038.09px;
+        top: 2012.35px;
+    }
+
+    #content-wrapper-2-img a {
+        background-image: url(images/content-wrapper-2-img-1347.png);
+        width: 292.57px;
+        height: 382.88px;
+        position: absolute;
+        left: 883.2px;
+        top: 2088.14px;
+    }
+
+    #content-wrapper-2-subtitile-text {
+        font-size: 25px;
+        position: absolute;
+        left: 830.36px;
+        top: 2536.34px;
+        text-align: center;
+        width: 399px;
+        height: 60px;
+    }
+
+    #blue-line-4 {
+        background-image: url(images/blue-line-2-1347.png);
+        width: 1364.35px;
+        height: 39.55px;
+        position: absolute;
+        left: 0px;
+        top: 2654.98px;
+    }
+
+    #content-wrapper-3rd-1 a {
+        background-image: url(images/content-wrapper-3rd-1-1347.png);
+        width: 673.94px;
+        height: 387.23px;
+        position: absolute;
+        left: 0px;
+        top: 2694.52px;
+    }
+
+    #content-wrapper-3rd-2 a {
+        background-image: url(images/content-wrapper-3rd-2-1347.png);
+        width: 673.94px;
+        height: 387.23px;
+        position: absolute;
+        left: 692.06px;
+        top: 2694.52px;
+    }
+
+    #content-wrapper-3rd-3 a {
+        background-image: url(images/content-wrapper-3rd-3-1347.png);
+        width: 673.94px;
+        height: 387.23px;
+        position: absolute;
+        left: 0px;
+        top: 3101.52px;
+    }
+
+    #content-wrapper-3rd-4 a {
+        background-image: url(images/content-wrapper-3rd-4-1347.png);
+        width: 673.94px;
+        height: 387.23px;
+        position: absolute;
+        left: 690.42px;
+        top: 3101.52px;
+    }
+
+    #blue-line-5 {
+        background-image: url(images/blue-line-2-1347.png);
+        width: 1349px;
+        height: 39.55px;
+        position: absolute;
+        left: 0px;
+        top: 3489px;
+    }
 }
 
