@@ -603,6 +603,8 @@ body {
         text-align: center;
         width: 570px;
         height: 60px;
+        font-size: 14px;
+        z-index: 1;
     }
     
     #learn-more-3 a {
@@ -638,7 +640,7 @@ body {
     
     #content-wrapper-2 {
         background-image: url(images/content-wrapper-2.png);
-        width: 0px;
+        width: 204px;
         height: 241px;
         position: absolute;
         left: 210px;
